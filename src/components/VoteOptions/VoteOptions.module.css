@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 24px;
+}
+.button {
+  padding: 8px 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+  background: #fff;
+}
+.reset {
+  margin-left: auto;
+  color: red;
+  border-color: red;
+}
